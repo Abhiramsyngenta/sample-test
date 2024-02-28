@@ -1,0 +1,7 @@
+
+{
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "c".(«¹Âµùÿÿÿÿ8‚ÒÎ¨Þ1
+]	java:S125"<This block of commented-out lines of code should be removed.(£†ýåûÿÿÿÿ8‰ýÌ¨Þ1
+L	java:S106"+Replace this use of System.out by a logger.(çÛÔªùÿÿÿÿ8ýÌ¨Þ1
+L	java:S106"+Replace this use of System.out by a logger.(¹›î¨úÿÿÿÿ8ŽýÌ¨Þ1
+G	java:S106"+Replace this use of System.out by a logger.(î­È8ýÌ¨Þ1
